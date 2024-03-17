@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Exploring the Universe",
+    "cover_img": "https://i.ibb.co/WHCSVWf/karolina-bobek-w-PSTkt-Ou03-E-unsplash.jpg",
+    "author_img": "https://i.ibb.co/RNgyVyr/harry-cunningham-EPi3-TRQc5-Z0-unsplash.jpg",
+    "author": "John Doe",
+    "reading_time": 15,
+    "posted_date": "2024-03-14",
+    "hash_tag": ["space", "astronomy", "science"]
+  },
+  {
+    "id": 2,
+    "title": "The Art of Cooking",
+    "cover_img": "https://i.ibb.co/Kq742BN/karolina-bobek-GXMh-IMg-Adg-M-unsplash.jpg",
+    "author_img": "https://i.ibb.co/5Y8KLC0/foto-sushi-6anudmp-ILw4-unsplash.jpg",
+    "author": "Jane Smith",
+    "reading_time": 10,
+    "posted_date": "2024-03-13",
+    "hash_tag": ["food", "cooking", "recipes"]
+  },
+  {
+    "id": 3,
+    "title": "Mindfulness Meditation",
+    "cover_img": "https://i.ibb.co/44Scft8/lauren-sauder-6-GPBVYLap-YQ-unsplash.jpg",
+    "author_img": "https://i.ibb.co/LnsQ1KC/christian-buehner-DIt-Ylc26z-VI-unsplash.jpg",
+    "author": "Alice Johnson",
+    "reading_time": 20,
+    "posted_date": "2024-03-12",
+    "hash_tag": ["mindfulness", "meditation", "wellness"]
+  },
+  {
+    "id": 4,
+    "title": "The Secrets of Productivity",
+    "cover_img": "https://i.ibb.co/0KSHKvL/karolina-bobek-YGc-Xbe-Nt-N6-I-unsplash.jpg",
+    "author_img": "https://i.ibb.co/mJ8LC7Y/warren-VVEw-JJRRHgk-unsplash.jpg",
+    "author": "David Williams",
+    "reading_time": 12,
+    "posted_date": "2024-03-11",
+    "hash_tag": ["productivity", "efficiency", "success"]
+  },
+  {
+    "id": 5,
+    "title": "Discovering Ancient Civilizations",
+    "cover_img": "https://i.ibb.co/1sCJ481/vika-strawberrika-qw-Tn-Nrk-E78-Q-unsplash.jpg",
+    "author_img": "https://i.ibb.co/HXF4gTh/edward-cisneros-H6wpor9mjs-unsplash.jpg",
+    "author": "Emily Brown",
+    "reading_time": 18,
+    "posted_date": "2024-03-10",
+    "hash_tag": ["history", "archaeology", "culture"]
+  },
+  {
+    "id": 6,
+    "title": "The World of Fantasy Literature",
+    "cover_img": "https://i.ibb.co/LdcPqBK/karolina-bobek-5-NWEVeaa-Iq-U-unsplash.jpg",
+    "author_img": "https://i.ibb.co/HB8Xxn5/michael-dam-m-EZ3-Po-FGs-k-unsplash.jpg",
+    "author": "Michael Johnson",
+    "reading_time": 25,
+    "posted_date": "2024-03-09",
+    "hash_tag": ["fantasy", "literature", "books"]
+  }
+]
